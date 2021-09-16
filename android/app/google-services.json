@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5048339811",
+    "project_id": "getx-auth-e7b1e",
+    "storage_bucket": "getx-auth-e7b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5048339811:android:a3fcc3c5b9f3c51e5ed756",
+        "android_client_info": {
+          "package_name": "com.santosenoque.cadevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5048339811-iev0avmis7g2u8gm4mh9bgs7c88bu0qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyPKCmaaj0BbAYpB3zaiwLty8TYjnwGoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5048339811-iev0avmis7g2u8gm4mh9bgs7c88bu0qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
